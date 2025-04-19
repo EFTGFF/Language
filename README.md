@@ -1,2 +1,2 @@
 # Language
-C language and Dr.Zhanghaoyang's JvavScript and JvavScript Object Notation
+C Language and Dr.Zhanghaoyang's JavaScript Family(JvavScript and JvavScript Object Notation)
