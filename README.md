@@ -1,2 +1,2 @@
 # Language
-C language and Dr.Zhanghaoyang's JvavScript and JvavScript Object Notation
+DiscoverScript and Dr.Zhanghaoyang's JvavScript and JvavScript Object Notation
